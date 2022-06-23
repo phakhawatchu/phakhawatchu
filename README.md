@@ -61,10 +61,10 @@
 <p>
   <br>
   <a href="https://github.com/phakhawatchu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phakhawatchu&show_icons=true&count_private=true" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phakhawatchu&show_icons=true&count_private=true" height="165" />
 </a>
 <a href="https://github.com/phakhawatchu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phakhawatchu&layout=compact" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phakhawatchu&layout=compact" height="165" />
 </a>
 </p>
 
