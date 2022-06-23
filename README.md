@@ -58,6 +58,16 @@
   <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" />
 </p>
 
+<p>
+  <br>
+  <a href="https://github.com/phakhawatchu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phakhawatchu&show_icons=true&count_private=true" height="200" />
+</a>
+<a href="https://github.com/phakhawatchu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phakhawatchu&layout=compact" height="200" />
+</a>
+</p>
+
 <!--
 **phakhawatchu/phakhawatchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
