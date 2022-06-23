@@ -68,11 +68,24 @@
 </a>
 </p>
 
-<h3>My Medium's blog</h3>
+<h3>Current Active Projects</h3>
+<p>
+<a href="https://github.com/phakhawatchu/bitkub-node">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phakhawatchu&repo=bitkub-node&show_owner=true" />
+</a>
+</p>
+
+<h3>Medium's blog</h3>
 <p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@phakhawatchu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@phakhawatchu/0" alt="Recent Article 0"> 
 </p>
 
+<!-- <p>
+  <br>
+<a href="https://github.com/phakhawatchu">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phakhawatchu" height="165" />
+</a>
+</p> -->
 
 <!--
 **phakhawatchu/phakhawatchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
