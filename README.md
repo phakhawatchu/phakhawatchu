@@ -46,7 +46,7 @@
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" />
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white" />
 </p>
 
 <h3>Things I have used</h3>
