@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Migrated from GitLab</h1>
+<h1>Hi there, I'm Phakhawat (Zeno) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 
-<p>I'm Phakhawat (👋 called me Zeno). Pursuing Master of Electrical Engineering at
+<p>Pursuing Master of Electrical Engineering at
   <b><img src="https://cdn.zipeventapp.com/images/organization/1CE076A3-3300-4C2A-A5A3-BBC72B39A8ED/logo.png" width="20"/>King Mongkut's University
   of Technology Thonburi</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="15"/> 
   <b>Chonburi, Thailand</b>.</p>
@@ -69,12 +69,8 @@
 </a>
 </p>
 
-<h3>Current Active Projects</h3>
-<p>
-<a href="https://github.com/phakhawatchu/bitkub-node">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phakhawatchu&repo=bitkub-node&show_owner=true" />
-</a>
-</p>
+<h3>Specialization Certificates</h3>
+<p align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DFMX94V6F3DD"><img width="80%" alt="Phakhawat's Coursera TensorFlow Developer Certificate" src="./assets/certificates/coursera-tf-developer-specialization.png" /></a></p>
 
 <!-- <p>
   <br>
