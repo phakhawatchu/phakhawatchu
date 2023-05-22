@@ -3,10 +3,10 @@
 <h1>Hi there, I'm Phakhawat (Zeno) <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 
-<p>Pursuing Master of Electrical Engineering at
+<p>Master of Electrical Engineering at
   <b><img src="https://cdn.zipeventapp.com/images/organization/1CE076A3-3300-4C2A-A5A3-BBC72B39A8ED/logo.png" width="20"/>King Mongkut's University
   of Technology Thonburi</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197452.png" width="15"/> 
-  <b>Chonburi, Thailand</b>.</p>
+  <b>Bangkok, Thailand</b>.</p>
 <h3>Things I'm familiar with</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white" />
